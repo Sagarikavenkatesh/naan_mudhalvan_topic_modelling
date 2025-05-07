@@ -5,11 +5,11 @@ This project aims to automatically discover and analyze hidden thematic structur
 
 Packages used:
 
-* `feedparser`: to fetch RSS news feeds.
-* `nltk`: for natural language preprocessing like stopwords removal and lemmatization.
-* `spacy`: for efficient tokenization and lemmatization.
-* `gensim`: to build the topic modeling (LDA) model.
-* `re` and `pprint`: for text cleaning and structured output display.
+* feedparser: to fetch RSS news feeds.
+* nltk: for natural language preprocessing like stopwords removal and lemmatization.
+* spacy: for efficient tokenization and lemmatization.
+* gensim: to build the topic modeling (LDA) model.
+* re and `pprint`: for text cleaning and structured output display.
 
 
 
